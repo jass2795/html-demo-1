@@ -1,0 +1,17 @@
+.wrap
+    {
+        border: 600px;
+        background: grey;
+
+    }
+body{
+    font-family:sans-serif;
+
+}
+blockquote
+{
+    border: 1px solid grey;
+    width: 600px;
+    text-align: center;
+    margin-left:0;
+}
