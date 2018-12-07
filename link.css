@@ -50,17 +50,17 @@ color:grey;
 }
 .section-light
 {
-    background-color: blueviolet;
+    background-color:white;
     color: brown;
 }
 .section-dark
 {
-    background-color:#ddd;
+    background-color:rgb(56, 21, 21);
     color:#282e34;
 }
 .section-white
 {
-    background-color:pink;
+    background-color:black;
     color:red;
 }
 .text
@@ -71,4 +71,16 @@ color:grey;
     text-align: center;
     color:#000;
     text-transform: uppercase;
+}
+h2{
+    text-align: center; 
+}
+.border{
+    text-align:center;
+    text-transform: uppercase;
+    top:50%;
+    width: 100%;
+    color:#111;
+    font-size: 27px;
+    letter-spacing: 8px;
 }
